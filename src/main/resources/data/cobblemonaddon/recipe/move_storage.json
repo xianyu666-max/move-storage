@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "DTD",
+    "DPD",
+    "DDD"
+  ],
+  "key": {
+    "D": { "item": "cobblemon:disc_shelf" },
+    "T": { "item": "cobblemon:tm_machine" },
+    "P": { "item": "cobblemon:pc" }
+  },
+  "result": {
+    "id": "cobblemonaddon:move_storage",
+    "count": 1
+  }
+}

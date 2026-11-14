@@ -1,0 +1,17 @@
+.gradle/
+build/
+run/
+release/
+发布/
+libs/
+.kotlin/
+.idea/
+*.iml
+out/
+*.log
+build_log*.txt
+find_*.py
+*.py
+orig_screen.kt.txt
+build.bat
+run-client.bat

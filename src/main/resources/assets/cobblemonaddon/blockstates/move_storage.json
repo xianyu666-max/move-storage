@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "facing=south,part=bottom,on=false": {
+      "model": "cobblemonaddon:block/move_storage_bottom"
+    },
+    "facing=south,part=bottom,on=true": {
+      "model": "cobblemonaddon:block/move_storage_bottom"
+    },
+    "facing=south,part=top,on=false": {
+      "model": "cobblemonaddon:block/move_storage_top"
+    },
+    "facing=south,part=top,on=true": {
+      "model": "cobblemonaddon:block/move_storage_top_on"
+    },
+    "facing=west,part=bottom,on=false": {
+      "model": "cobblemonaddon:block/move_storage_bottom",
+      "y": 90
+    },
+    "facing=west,part=bottom,on=true": {
+      "model": "cobblemonaddon:block/move_storage_bottom",
+      "y": 90
+    },
+    "facing=west,part=top,on=false": {
+      "model": "cobblemonaddon:block/move_storage_top",
+      "y": 90
+    },
+    "facing=west,part=top,on=true": {
+      "model": "cobblemonaddon:block/move_storage_top_on",
+      "y": 90
+    },
+    "facing=north,part=bottom,on=false": {
+      "model": "cobblemonaddon:block/move_storage_bottom",
+      "y": 180
+    },
+    "facing=north,part=bottom,on=true": {
+      "model": "cobblemonaddon:block/move_storage_bottom",
+      "y": 180
+    },
+    "facing=north,part=top,on=false": {
+      "model": "cobblemonaddon:block/move_storage_top",
+      "y": 180
+    },
+    "facing=north,part=top,on=true": {
+      "model": "cobblemonaddon:block/move_storage_top_on",
+      "y": 180
+    },
+    "facing=east,part=bottom,on=false": {
+      "model": "cobblemonaddon:block/move_storage_bottom",
+      "y": 270
+    },
+    "facing=east,part=bottom,on=true": {
+      "model": "cobblemonaddon:block/move_storage_bottom",
+      "y": 270
+    },
+    "facing=east,part=top,on=false": {
+      "model": "cobblemonaddon:block/move_storage_top",
+      "y": 270
+    },
+    "facing=east,part=top,on=true": {
+      "model": "cobblemonaddon:block/move_storage_top_on",
+      "y": 270
+    }
+  }
+}
