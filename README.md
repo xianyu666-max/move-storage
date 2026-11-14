@@ -99,6 +99,14 @@ D D D      P = PC 终端（cobblemon:pc）
 
 ## 开发
 
+Cobblemon 的 jar 体积过大，没有放进仓库。构建前先把它放到 `libs/`：
+
+```
+libs/cobblemon-fabric-1.8.1+1.21.1.jar
+```
+
+（从 CurseForge / Modrinth 下载 Cobblemon 1.8.1 for 1.21.1，改成上面的文件名。）
+
 ```powershell
 .\gradlew.bat build        # 构建 -> build\libs\cobblemonaddon-1.0.0.jar
 .\gradlew.bat runClient    # 开发客户端
